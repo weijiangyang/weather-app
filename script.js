@@ -1,6 +1,6 @@
 let inputBox = document.querySelector('.input-box');
 let searchBtn = document.querySelector('#searchBtn');
-let weather_img = document.querySelector('.wheather-img');
+let weather_img = document.querySelector('.weather-img');
 let temperature = document.querySelector('.temperature');
 let description = document.querySelector('.description');
 let humidity = document.getElementById("humidity");
